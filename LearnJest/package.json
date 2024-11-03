@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "test": "jest",
+    "tsc": "tsc"
+  },
+  "name": "learnjest",
+  "version": "1.0.0",
+  "main": "sum.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "typescript": "^5.0.4"
+  }
+}
